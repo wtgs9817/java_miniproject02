@@ -1,0 +1,13 @@
+package com.studentprogram.studentinfo;
+
+import lombok.Data;
+
+@Data
+public class StudentVO {
+
+	String name;
+	String stdnum;
+	String phonenum;
+	String major;
+	
+}

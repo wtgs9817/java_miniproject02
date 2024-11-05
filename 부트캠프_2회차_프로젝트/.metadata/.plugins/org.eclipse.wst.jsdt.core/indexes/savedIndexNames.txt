@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\USER\Desktop\부트캠프_2회차_프로젝트\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3265850932.index
+562157248.index
+2867218055.index
+3432618783.index
+3441663826.index
+2881107159.index
